@@ -1,5 +1,5 @@
 .header{
-    background-color: rgb(255, 215, 71);
+    background-color: rgb(228, 96, 15);
     height: 150px;
     display: flex;
     align-items: center;
@@ -7,7 +7,19 @@
 }
 .menu{
     font-size: 24px;
-    font-family: Verdana;
-    color: rgb(88, 56, 14);
+    font-family: verdana;
+    color: rgb(252, 233, 209);
     font-weight: bolder;
+}
+
+.logo{
+
+}
+
+.propaganda{
+    height: 500px;
+    background-color: rgb(255, 164, 122);
+    background: url(foto\ 1.jpg) center;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
